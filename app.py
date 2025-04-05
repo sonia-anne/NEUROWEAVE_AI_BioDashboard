@@ -12,7 +12,7 @@ st.markdown("Real-time simulations, global maps, biometric AI control, DNA inter
 
 # 1. NANOBOT 3D SIMULATOR (Placeholder)
 st.subheader("🧠 1. Nanobot 3D Simulation (Preview)")
-st.image("https://upload.wikimedia.org/wikipedia/commons/f/f1/Nanorobot_fantasy_art.jpg", use_column_width=True)
+st.image("https://upload.wikimedia.org/wikipedia/commons/f/f1/Nanorobot_fantasy_art.jpg", use_container_width=True)
 
 # 2. TERMINAL DE COMANDOS
 st.subheader("💻 2. Nanobot Command Terminal")
